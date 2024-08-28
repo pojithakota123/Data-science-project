@@ -59,7 +59,7 @@ The comparison of model accuracy and loss across different configurations (CNN w
 
 ![Model Comparison](./pics/Picture3.png)
 
-## How to Run the Code
+## How to Run the Codes
 
 1. **Clone the repository**:
    ```bash
